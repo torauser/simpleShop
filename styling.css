@@ -7,7 +7,7 @@ body {
     font-family: "Open sans", sans-serif;
 }
 .head {
-    background-image: url('pageContent/banner.jpg');
+    background-image: url('./pageContent/banner.jpg');
     background-size: cover;
     max-width: 100vw;
     padding: 0;
