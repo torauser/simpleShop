@@ -7,8 +7,8 @@ body {
     font-family: "Open sans", sans-serif;
 }
 .head {
-    background-image: linear-gradient(to right, #b3a2f9, #b83cfc);
-    max-width: 100vw;
+    background-image: url('./pageContent/banner.JPG');
+    background-size: cover;
     padding: 0;
     margin: 0 calc(-50vw + 50%);
     display: block;
